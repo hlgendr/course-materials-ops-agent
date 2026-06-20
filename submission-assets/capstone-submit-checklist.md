@@ -15,8 +15,9 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [x] Kaggle Writeup draft prepared.
 - [x] Video script prepared.
 - [x] Cover image brief prepared.
-- [ ] Public repository or demo URL created.
-- [ ] Final public repository reviewed for secrets.
+- [x] Sanitized local public repository package created at `public/course-materials-ops-agent`.
+- [x] Final public package reviewed for secrets.
+- [x] Public repository URL created: https://github.com/hlgendr/course-materials-ops-agent
 - [ ] Final video recorded and uploaded to YouTube.
 - [ ] Cover image generated/chosen.
 
@@ -31,6 +32,11 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [ ] Attach public YouTube video of 5 minutes or less.
 - [ ] Attach public project link or public code repository.
 - [ ] Submit before deadline.
+
+## Current Publishing Blocker
+
+- Resolved: user logged in to GitHub, repository was created, and the local
+  public package was pushed to `main`.
 
 ## Concepts To Mention
 

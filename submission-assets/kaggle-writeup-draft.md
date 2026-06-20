@@ -112,7 +112,7 @@ The current project is local-first. It does not include a public hosted demo, be
 
 ## Project Link
 
-To be added after the public repository or demo link is created.
+https://github.com/hlgendr/course-materials-ops-agent
 
 ## Video
 
