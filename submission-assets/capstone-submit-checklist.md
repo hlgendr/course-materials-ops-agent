@@ -19,7 +19,7 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [x] Final public package reviewed for secrets.
 - [x] Public repository URL created: https://github.com/hlgendr/course-materials-ops-agent
 - [ ] Final video recorded and uploaded to YouTube.
-- [ ] Cover image generated/chosen.
+- [x] Cover image generated: `submissions/assets/course-materials-ops-agent-cover.png`.
 
 ## Kaggle Submission Requirements
 
@@ -28,7 +28,7 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [ ] Select a track in the Kaggle UI.
 - [ ] Paste/adapt `submissions/kaggle-writeup-draft.md`.
 - [ ] Keep final writeup under 2,500 words.
-- [ ] Attach required cover image to media gallery.
+- [ ] Attach required cover image to media gallery: `submissions/assets/course-materials-ops-agent-cover.png`.
 - [ ] Attach public YouTube video of 5 minutes or less.
 - [ ] Attach public project link or public code repository.
 - [ ] Submit before deadline.
