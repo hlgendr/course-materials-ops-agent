@@ -2,7 +2,7 @@
 
 Purpose: Kaggle Writeup media gallery cover image.
 
-Status: needs user approval before final generation/upload.
+Status: generated locally and ready for Kaggle upload.
 
 ## Recommended Direction
 
@@ -41,10 +41,8 @@ clean layout, readable title text, no logos, no real account data, no API keys,
 16:9 aspect ratio.
 ```
 
-## Open User Decision
+## Generated Asset
 
-Choose one before final generation:
+Generated direction: minimal technical dashboard.
 
-1. Minimal technical dashboard.
-2. More visual architecture diagram.
-3. Friendly portfolio-style project cover.
+Asset path: `submission-assets/course-materials-ops-agent-cover.png`.
