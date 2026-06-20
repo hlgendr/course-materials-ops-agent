@@ -1,0 +1,56 @@
+# Kaggle Capstone Submit Checklist
+
+Competition: https://www.kaggle.com/competitions/vibecoding-agents-capstone-project
+
+Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
+
+## Technical Preparation
+
+- [x] Local capstone agent scaffolded.
+- [x] Public-facing README drafted.
+- [x] Architecture documentation added.
+- [x] Evaluation documentation added.
+- [x] Security documentation added.
+- [x] Publication checklist added.
+- [x] Kaggle Writeup draft prepared.
+- [x] Video script prepared.
+- [x] Cover image brief prepared.
+- [ ] Public repository or demo URL created.
+- [ ] Final public repository reviewed for secrets.
+- [ ] Final video recorded and uploaded to YouTube.
+- [ ] Cover image generated/chosen.
+
+## Kaggle Submission Requirements
+
+- [ ] Join capstone competition and accept rules.
+- [ ] Click "New Writeup" on the capstone projects page.
+- [ ] Select a track in the Kaggle UI.
+- [ ] Paste/adapt `submissions/kaggle-writeup-draft.md`.
+- [ ] Keep final writeup under 2,500 words.
+- [ ] Attach required cover image to media gallery.
+- [ ] Attach public YouTube video of 5 minutes or less.
+- [ ] Attach public project link or public code repository.
+- [ ] Submit before deadline.
+
+## Concepts To Mention
+
+- [x] ADK / Agents CLI.
+- [x] Deterministic agent tools.
+- [x] Security features.
+- [x] Deployability and deployment-readiness gate.
+- [x] Evaluation cases.
+- [ ] Antigravity: optional; currently not used because local VPN mode may block
+  reliable usage.
+- [ ] MCP: optional future extension, not required because at least three other
+  course concepts are covered.
+
+## Do Not Publish
+
+- `.env`
+- `.venv`
+- `.google-agents-cli`
+- `.agents-cli-scripts`
+- `app/.adk`
+- local database files
+- API keys, tokens, service-account JSON, browser cookies, or personal account
+  screenshots
