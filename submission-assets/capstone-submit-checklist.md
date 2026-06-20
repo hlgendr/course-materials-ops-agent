@@ -19,7 +19,7 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [x] Final public package reviewed for secrets.
 - [x] Public repository URL created: https://github.com/hlgendr/course-materials-ops-agent
 - [x] Final local video generated and checked: 3:09, 1080p, audio present.
-- [ ] Final video uploaded to YouTube.
+- [x] Final video uploaded to YouTube: https://youtu.be/MnGaAG84db4
 - [x] Cover image generated: `submission-assets/course-materials-ops-agent-cover.png`.
 
 ## Kaggle Submission Requirements
@@ -30,14 +30,17 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [ ] Paste/adapt `submissions/kaggle-writeup-draft.md`.
 - [ ] Keep final writeup under 2,500 words.
 - [ ] Attach required cover image to media gallery: `submission-assets/course-materials-ops-agent-cover.png`.
-- [ ] Attach public YouTube video of 5 minutes or less.
+- [x] Attach public YouTube video of 5 minutes or less: https://youtu.be/MnGaAG84db4
 - [ ] Attach public project link or public code repository.
+- [ ] Stop before final Kaggle submission so the user can review the draft and attached assets.
 - [ ] Submit before deadline.
 
 ## Current Publishing Blocker
 
 - Resolved: user logged in to GitHub, repository was created, and the local
   public package was pushed to `main`.
+- Resolved: YouTube upload is complete and externally reachable as an
+  unlisted video.
 
 ## Concepts To Mention
 

@@ -116,4 +116,4 @@ https://github.com/hlgendr/course-materials-ops-agent
 
 ## Video
 
-To be attached after recording a 5-minute-or-less YouTube demo.
+https://youtu.be/MnGaAG84db4
