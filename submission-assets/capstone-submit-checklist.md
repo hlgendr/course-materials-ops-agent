@@ -18,8 +18,8 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [x] Sanitized local public repository package created at `public/course-materials-ops-agent`.
 - [x] Final public package reviewed for secrets.
 - [x] Public repository URL created: https://github.com/hlgendr/course-materials-ops-agent
-- [x] Final local video generated and checked: 3:09, 1080p, audio present.
-- [x] Final video uploaded to YouTube: https://youtu.be/MnGaAG84db4
+- [x] Final local video generated and checked: revised WeJames narration, 3:15, 1080p, AAC mono narration.
+- [x] Final video uploaded to YouTube: https://youtu.be/S1ZU4I0uLoY
 - [x] Cover image generated: `submission-assets/course-materials-ops-agent-cover.png`.
 
 ## Kaggle Submission Requirements
@@ -30,7 +30,7 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [ ] Paste/adapt `submissions/kaggle-writeup-draft.md`.
 - [ ] Keep final writeup under 2,500 words.
 - [ ] Attach required cover image to media gallery: `submission-assets/course-materials-ops-agent-cover.png`.
-- [x] Attach public YouTube video of 5 minutes or less: https://youtu.be/MnGaAG84db4
+- [x] Attach public YouTube video of 5 minutes or less: https://youtu.be/S1ZU4I0uLoY
 - [ ] Attach public project link or public code repository.
 - [ ] Stop before final Kaggle submission so the user can review the draft and attached assets.
 - [ ] Submit before deadline.

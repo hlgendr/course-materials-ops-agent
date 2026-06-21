@@ -116,4 +116,4 @@ https://github.com/hlgendr/course-materials-ops-agent
 
 ## Video
 
-https://youtu.be/MnGaAG84db4
+https://youtu.be/S1ZU4I0uLoY
