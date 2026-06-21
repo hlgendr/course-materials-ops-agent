@@ -24,15 +24,16 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 
 ## Kaggle Submission Requirements
 
-- [ ] Join capstone competition and accept rules.
-- [ ] Click "New Writeup" on the capstone projects page.
-- [ ] Select a track in the Kaggle UI.
-- [ ] Paste/adapt `submissions/kaggle-writeup-draft.md`.
-- [ ] Keep final writeup under 2,500 words.
-- [ ] Attach required cover image to media gallery: `submission-assets/course-materials-ops-agent-cover.png`.
+- [x] Join capstone competition and accept rules.
+- [x] Click "New Writeup" on the capstone projects page.
+- [x] Select `Freestyle` track in the Kaggle UI.
+- [x] Paste/adapt `submission-assets/kaggle-writeup-draft.md`.
+- [x] Keep final writeup under 2,500 words.
+- [x] Attach required card/thumbnail image: `submission-assets/course-materials-ops-agent-cover.png`.
+- [x] Attach media gallery image.
 - [x] Attach public YouTube video of 5 minutes or less: https://youtu.be/S1ZU4I0uLoY
-- [ ] Attach public project link or public code repository.
-- [ ] Stop before final Kaggle submission so the user can review the draft and attached assets.
+- [x] Attach public project link or public code repository.
+- [x] Stop before final Kaggle submission so the user can review the draft and attached assets.
 - [ ] Submit before deadline.
 
 ## Current Publishing Blocker
@@ -41,6 +42,8 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
   public package was pushed to `main`.
 - Resolved: YouTube upload is complete and externally reachable as an
   unlisted video.
+- Current final step: Kaggle draft is ready to submit and waiting for user
+  review before the final `Submit` action.
 
 ## Concepts To Mention
 
