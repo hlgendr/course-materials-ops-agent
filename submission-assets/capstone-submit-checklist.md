@@ -34,7 +34,7 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
 - [x] Attach public YouTube video of 5 minutes or less: https://youtu.be/S1ZU4I0uLoY
 - [x] Attach public project link or public code repository.
 - [x] Stop before final Kaggle submission so the user can review the draft and attached assets.
-- [ ] Submit before deadline.
+- [x] Submit before deadline.
 
 ## Current Publishing Blocker
 
@@ -42,8 +42,7 @@ Deadline: 2026-07-06 23:59 PT / 2026-07-07 14:59 Asia/Shanghai.
   public package was pushed to `main`.
 - Resolved: YouTube upload is complete and externally reachable as an
   unlisted video.
-- Current final step: Kaggle draft is ready to submit and waiting for user
-  review before the final `Submit` action.
+- Resolved: Kaggle Writeup was submitted after final wording review.
 
 ## Concepts To Mention
 
