@@ -1,12 +1,12 @@
 # Course Materials Ops Agent
 
-Subtitle: A local-first agent that keeps a fast-moving AI course workspace grounded, safe, and submission-ready.
+Subtitle: A small local agent for tracking course notes, official links, and capstone readiness.
 
-Track to select in Kaggle UI: choose the closest track for productivity, developer tooling, or workflow automation after joining the capstone competition.
+Track selected in Kaggle UI: Freestyle.
 
 ## Summary
 
-Course Materials Ops Agent is a local-first AI assistant for managing the Kaggle 5-Day AI Agents: Intensive Vibe Coding Course workspace. The project solves a practical problem I ran into during the course: materials, codelabs, official links, badge pages, local agent prototypes, API credentials, and optional cloud tasks all move quickly, and it is easy to lose track of what is actually done.
+Course Materials Ops Agent is a small local assistant I built while working through the Kaggle 5-Day AI Agents: Intensive Vibe Coding Course. The problem was practical: course links, daily notes, badge status, capstone requirements, API credentials, and optional cloud tasks were all moving at the same time, and it was easy to lose track of what was actually done.
 
 The agent answers questions such as:
 
@@ -15,7 +15,7 @@ The agent answers questions such as:
 - Can we deploy the capstone to Google Cloud now?
 - Prepare a short capstone summary.
 
-The important design choice is that the agent does not simply "remember" course status from the prompt. It uses deterministic tools over a whitelisted local workspace, reads source files such as course logs and link logs, and refuses unsafe actions such as reading `.env` secrets or claiming cloud deployment has happened.
+The main design choice is that the agent does not simply "remember" course status from the prompt. It reads the files I deliberately logged, uses deterministic tools over a whitelisted local workspace, and refuses unsafe actions such as reading `.env` secrets or claiming cloud deployment has happened.
 
 ## Problem
 
@@ -25,7 +25,7 @@ The core risk is not that a model cannot summarize. The risk is that a model can
 
 ## Solution
 
-Course Materials Ops Agent acts as an operations layer for the course workspace. It keeps a local source of truth and answers only from files that have been deliberately logged:
+Course Materials Ops Agent is an operations helper for the course workspace. It keeps a local source of truth and answers only from files that have been deliberately logged:
 
 - `notes/course-log.md`
 - `notes/link-log.md`
@@ -97,7 +97,7 @@ Managed eval trace generation is prepared but currently optional because it requ
 
 ## What I Learned
 
-This project made the course's production message concrete: a useful agent is not only a prompt. The durable parts are the spec, trusted source files, deterministic tools, tests, safety rules, and honest operational status.
+This project made the course's production message concrete for me: a useful agent is not only a prompt. The parts that made it dependable were the spec, trusted source files, deterministic tools, tests, safety rules, and honest operational status.
 
 The biggest lesson was the distinction between prototype confidence and submission correctness. The agent originally helped track daily work, but after checking Kaggle's capstone requirements, the workspace had to distinguish "daily assignment outputs are not required" from "capstone participation is required for the Kaggle certificate path." That correction is now captured in the local notes and submission status.
 
